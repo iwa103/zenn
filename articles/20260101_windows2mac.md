@@ -2,7 +2,7 @@
 title: "Macでの検証"
 emoji: "📝"
 type: "tech"
-topics: ["other"]
+topics: ["llm", "other", "Mac"]
 published: true
 ---
 自分のPC作業環境関係ですが会社PCはWindows１１でメモリ６４＋GPUはNVIDIAのメモリ４Gのものです。
