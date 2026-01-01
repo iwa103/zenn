@@ -1,5 +1,5 @@
 ---
-title: "（記事タイトル）"
+title: "Macでの検証"
 emoji: "📝"
 type: "tech"
 topics: ["other"]
