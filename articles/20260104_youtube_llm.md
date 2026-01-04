@@ -1,5 +1,5 @@
 ---
-title: "Macでの検証"
+title: "LLMでの一般的な利用状況"
 emoji: "📝"
 type: "tech"
 topics: ["other","llm","youtube"]
