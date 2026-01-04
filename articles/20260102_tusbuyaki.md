@@ -1,5 +1,5 @@
 ---
-title: "Macでの検証"
+title: "駅伝とMCP"
 emoji: "📝"
 type: "tech"
 topics: ["llm", "other"]
