@@ -1,5 +1,5 @@
 ---
-title: "駅伝とMCP"
+title: "2026/01/02 駅伝とMCP"
 emoji: "📝"
 type: "tech"
 topics: ["llm", "other"]
