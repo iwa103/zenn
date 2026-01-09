@@ -1,5 +1,5 @@
 ---
-title: "Macでの検証"
+title: "2026/01/01 Macでの検証"
 emoji: "📝"
 type: "tech"
 topics: ["llm", "other", "Mac"]
