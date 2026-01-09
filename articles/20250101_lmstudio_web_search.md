@@ -1,5 +1,5 @@
 ---
-title: "LMsutuioでのWEBサーチ機能追加について"
+title: "2026/01/01 LMsutuioでのWEBサーチ機能追加について"
 emoji: "📝"
 type: "tech"
 topics: ["llm"]
