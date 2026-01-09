@@ -1,5 +1,5 @@
 ---
-title: "LLMでの一般的な利用状況"
+title: "2026/01/04 LLMでの一般的な利用状況"
 emoji: "📝"
 type: "tech"
 topics: ["other","llm","youtube"]
