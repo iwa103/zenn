@@ -1,5 +1,5 @@
 ---
-title: "MCP結構使えるかも．．．"
+title: "2026/01/05 MCP結構使えるかも．．．"
 emoji: "📝"
 type: "tech"
 topics: ["llm"]
