@@ -1,5 +1,5 @@
 ---
-title: "2026/1/10 久しぶり　4件"
+title: "2026/1/10 久しぶり　4件連続"
 emoji: "📝"
 type: "tech"
 topics: ["other"]
