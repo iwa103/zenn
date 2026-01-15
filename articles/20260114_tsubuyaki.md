@@ -2,7 +2,7 @@
 title: "2026/1/14 外付けタッチパッド"
 emoji: "📝"
 type: "tech"
-topics: ["LLM"]
+topics: ["MAC"]
 published: true
 ---
 スタバで作業する時に本体のタッチパッドのみでも結構使えたので外付けでもふといけるかと思って
