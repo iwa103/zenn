@@ -1,5 +1,5 @@
 ---
-title: "2026/1/16 ハマった"
+title: "2026/1/18 ハマった"
 emoji: "📝"
 type: "tech"
 topics: ["other"]
