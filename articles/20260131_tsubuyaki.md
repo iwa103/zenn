@@ -1,5 +1,5 @@
 ---
-title: "2026/1/31 学会投稿スパート"
+title: "2026/1/31 学会投稿ラストスパート"
 emoji: "📝"
 type: "tech"
 topics: ["other"]
