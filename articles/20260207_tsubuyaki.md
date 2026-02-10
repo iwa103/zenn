@@ -1,5 +1,5 @@
 ---
-title: "2026/2/17 二日酔い"
+title: "2026/2/7 二日酔い"
 emoji: "📝"
 type: "tech"
 topics: ["other"]
